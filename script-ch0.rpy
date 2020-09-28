@@ -333,6 +333,7 @@ label ch0_kill:
     s "What am I?"
     s "Make it stop!"
     s "PLEASE MAKE IT STOP!"
+    s "test test"
 
     $ delete_character("sayori")
     $ delete_character("natsuki")
